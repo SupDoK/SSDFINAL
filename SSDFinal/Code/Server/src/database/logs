@@ -1,0 +1,198 @@
+
+INFO   Server Started !   2020-01-14-06-17-44
+INFO   New Client Connection !   2020-01-14-06-18-27
+NO_USER   a@a.com does not exist !   2020-01-14-06-18-28
+INFO   New Client Connection !   2020-01-14-06-20-36
+NO_USER   bencochez@gmail.com does not exist !   2020-01-14-06-20-36
+INFO   Server Started !   2020-01-14-09-14-21
+INFO   New Client Connection !   2020-01-14-09-14-35
+NO_USER   a@a.com does not exist !   2020-01-14-09-14-37
+INFO   Server Started !   2020-01-14-09-16-51
+INFO   New Client Connection !   2020-01-14-09-17-05
+SUCCESS_LOGIN   bencochez86@gmail.com entered good credentials !   2020-01-14-09-17-06
+INFO   Code sent to bencochez86@gmail.com   2020-01-14-09-17-12
+SUCCESS_2STEP   bencochez86@gmail.com entered a good verification code !   2020-01-14-09-17-16
+INFO   Server Started !   2020-01-14-09-18-45
+INFO   New Client Connection !   2020-01-14-09-19-23
+SUCCESS_LOGIN   bencochez86@gmail.com entered good credentials !   2020-01-14-09-19-25
+INFO   Code sent to bencochez86@gmail.com   2020-01-14-09-19-31
+SUCCESS_2STEP   bencochez86@gmail.com entered a good verification code !   2020-01-14-09-19-36
+ACTION   ADMIN bencochez86@gmail.com did read lolocro97@hotmail.be   2020-01-14-09-19-50
+INFO   Server Started !   2020-01-15-01-38-23
+INFO   New Client Connection !   2020-01-15-01-38-31
+INFO   New Client Connection !   2020-01-15-01-38-52
+INFO   Server Started !   2020-01-15-02-19-22
+INFO   Server Started !   2020-01-15-02-19-39
+INFO   New Client Connection !   2020-01-15-02-19-49
+NO_USER   a@a.com does not exist !   2020-01-15-02-19-51
+INFO   Server Started !   2020-01-15-02-21-01
+INFO   New Client Connection !   2020-01-15-02-21-24
+SERVER_ERROR   Error is : java.lang.ArrayIndexOutOfBoundsException: 1   2020-01-15-02-21-26
+INFO   Server Started !   2020-01-15-04-04-04
+INFO   Server Started !   2020-01-15-04-05-29
+INFO   Server Started !   2020-01-15-04-07-51
+INFO   Server Started !   2020-01-15-04-10-44
+INFO   Server Started !   2020-01-15-04-11-45
+INFO   Server Started !   2020-01-15-04-17-25
+INFO   Server Started !   2020-01-15-04-17-50
+INFO   New Client Connection !   2020-01-15-04-18-37
+SERVER_ERROR   Error is : java.lang.ArrayIndexOutOfBoundsException: 1   2020-01-15-04-18-38
+INFO   New Client Connection !   2020-01-15-04-19-00
+NO_USER   aze@aze.com does not exist !   2020-01-15-04-19-01
+INFO   Server Started !   2020-01-15-04-39-37
+INFO   New Client Connection !   2020-01-15-04-40-20
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-04-40-21
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-04-40-27
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-04-40-31
+FAILED_ACTION   TEACHER loic-croche@hotmail.be try to change ssd for lolocro97@hotmail.be   2020-01-15-04-40-50
+SERVER_ERROR   Error is : java.lang.NullPointerException   2020-01-15-04-41-29
+INFO   Server Started !   2020-01-15-04-46-39
+INFO   Server Started !   2020-01-15-04-47-13
+INFO   New Client Connection !   2020-01-15-04-47-17
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-04-47-17
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-04-47-23
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-04-47-26
+SERVER_ERROR   Error is : java.lang.NullPointerException   2020-01-15-04-48-40
+INFO   Server Started !   2020-01-15-04-49-30
+INFO   New Client Connection !   2020-01-15-04-49-37
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-04-49-37
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-04-49-44
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-04-49-48
+SERVER_ERROR   Error is : java.lang.NullPointerException   2020-01-15-04-50-02
+INFO   New Client Connection !   2020-01-15-04-51-07
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-04-51-07
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-04-51-14
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-04-51-17
+SERVER_ERROR   Error is : java.lang.NullPointerException   2020-01-15-04-52-29
+INFO   Server Started !   2020-01-15-04-53-17
+INFO   New Client Connection !   2020-01-15-04-53-24
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-04-53-25
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-04-53-30
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-04-53-36
+SERVER_ERROR   Error is : java.lang.NullPointerException   2020-01-15-04-55-35
+INFO   Server Started !   2020-01-15-04-55-49
+INFO   New Client Connection !   2020-01-15-04-56-35
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-04-56-35
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-04-56-41
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-04-56-46
+SUCCESSFUL_ACTION   TEACHER loic-croche@hotmail.be did change french for lolocro97@hotmail.be   2020-01-15-04-59-12
+SERVER_ERROR   Error is : java.lang.ArrayIndexOutOfBoundsException: 1   2020-01-15-05-00-00
+INFO   New Client Connection !   2020-01-15-05-01-59
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-05-01-59
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-05-02-05
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-05-02-09
+ACTION   TEACHER loic-croche@hotmail.be did read lolocro97@hotmail.be   2020-01-15-05-02-17
+INFO   Server Started !   2020-01-15-05-06-07
+INFO   New Client Connection !   2020-01-15-05-09-13
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-05-09-13
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-05-09-19
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-05-09-22
+ACTION   TEACHER loic-croche@hotmail.be did read lolocro97@hotmail.be   2020-01-15-05-09-30
+INFO   Server Started !   2020-01-15-05-10-18
+INFO   Server Started !   2020-01-15-05-11-55
+INFO   New Client Connection !   2020-01-15-05-12-28
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-05-12-28
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-05-12-34
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-05-12-37
+ACTION   TEACHER loic-croche@hotmail.be did read lolocro97@hotmail.be   2020-01-15-05-12-45
+SERVER_ERROR   Error is : java.net.SocketException: Connection reset   2020-01-15-05-13-16
+INFO   Server Started !   2020-01-15-05-51-45
+INFO   New Client Connection !   2020-01-15-05-52-02
+FAIL_LOGIN   loic-croche@hotmail.be entered a bad password !   2020-01-15-05-52-03
+INFO   New Client Connection !   2020-01-15-05-52-40
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-05-52-41
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-05-52-47
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-05-52-50
+ACTION   TEACHER loic-croche@hotmail.be did read lolocro97@hotmail.be   2020-01-15-05-52-57
+SERVER_ERROR   Error is : java.net.SocketException: Connection reset   2020-01-15-05-53-04
+INFO   Server Started !   2020-01-15-06-28-33
+INFO   New Client Connection !   2020-01-15-06-28-46
+FAIL_LOGIN   loic-croche@hotmail.be entered a bad password !   2020-01-15-06-28-46
+INFO   Server Started !   2020-01-15-06-29-22
+INFO   New Client Connection !   2020-01-15-06-29-42
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-06-29-42
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-06-29-49
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-06-29-52
+ACTION   TEACHER loic-croche@hotmail.be did read lolocro97@hotmail.be   2020-01-15-06-30-00
+SERVER_ERROR   Error is : java.net.SocketException: Connection reset   2020-01-15-06-30-22
+INFO   Server Started !   2020-01-15-07-08-12
+INFO   New Client Connection !   2020-01-15-07-08-26
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-07-08-26
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-07-08-33
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-07-08-37
+INFO   Server Started !   2020-01-15-07-26-37
+INFO   New Client Connection !   2020-01-15-07-27-12
+SERVER_ERROR   Error is : java.lang.NullPointerException   2020-01-15-07-27-12
+INFO   Server Started !   2020-01-15-07-39-26
+INFO   New Client Connection !   2020-01-15-07-39-35
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-07-39-36
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-07-39-42
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-07-39-49
+SERVER_ERROR   Error is : java.net.SocketException: Connection reset   2020-01-15-07-43-38
+INFO   New Client Connection !   2020-01-15-07-43-56
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-07-43-57
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-07-44-03
+INFO   Server Started !   2020-01-15-07-44-47
+INFO   New Client Connection !   2020-01-15-07-45-24
+      2020-01-15-07-45-25
+SERVER_ERROR   Error is : java.lang.NullPointerException   2020-01-15-07-45-25
+INFO   Server Started !   2020-01-15-07-46-13
+INFO   New Client Connection !   2020-01-15-07-46-20
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-07-46-22
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-07-46-28
+SERVER_ERROR   Error is : java.net.SocketException: Connection reset   2020-01-15-07-47-11
+INFO   Server Started !   2020-01-15-07-57-18
+INFO   New Client Connection !   2020-01-15-07-57-38
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-07-57-39
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-07-57-45
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-07-57-50
+ACTION   TEACHER loic-croche@hotmail.be did read lolocro97@hotmail.be   2020-01-15-07-58-03
+SERVER_ERROR   Error is : java.net.SocketException: Connection reset   2020-01-15-07-58-09
+INFO   Server Started !   2020-01-15-09-13-44
+INFO   Server Started !   2020-01-15-09-16-16
+INFO   Server Started !   2020-01-15-09-17-37
+INFO   New Client Connection !   2020-01-15-09-17-57
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-09-17-58
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-09-18-04
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-09-18-09
+ACTION   TEACHER loic-croche@hotmail.be did read lolocro97@hotmail.be   2020-01-15-09-18-17
+SERVER_ERROR   Error is : java.net.SocketException: Connection reset   2020-01-15-09-18-23
+INFO   Server Started !   2020-01-15-10-46-01
+INFO   New Client Connection !   2020-01-15-10-46-13
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-10-46-16
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-10-46-22
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-10-46-29
+ACTION   TEACHER loic-croche@hotmail.be did read lolocro97@hotmail.be   2020-01-15-10-46-41
+SERVER_ERROR   Error is : java.net.SocketException: Connection reset   2020-01-15-10-47-29
+INFO   Server Started !   2020-01-15-11-06-43
+INFO   New Client Connection !   2020-01-15-11-06-54
+SUCCESS_LOGIN   loic-croche@hotmail.be entered good credentials !   2020-01-15-11-06-56
+INFO   Code sent to loic-croche@hotmail.be   2020-01-15-11-07-02
+SUCCESS_2STEP   loic-croche@hotmail.be entered a good verification code !   2020-01-15-11-07-37
+SUCCESSFUL_ACTION   TEACHER loic-croche@hotmail.be did change french for lolocro97@hotmail.be   2020-01-15-11-10-49
+SERVER_ERROR   Error is : java.net.SocketException: Connection reset   2020-01-15-11-11-35
+INFO   Server Started !   2020-01-15-11-15-47
+INFO   New Client Connection !   2020-01-15-11-16-01
+NO_USER   rabsil@he2b.be does not exist !   2020-01-15-11-16-03
+INFO   Server Started !   2020-01-15-11-16-38
+INFO   New Client Connection !   2020-01-15-11-16-53
+NO_USER   rabsil@he2b.be does not exist !   2020-01-15-11-16-55
+INFO   Server Started !   2020-01-15-11-17-18
+INFO   New Client Connection !   2020-01-15-11-17-31
+NO_USER   rabsil@he2b.be does not exist !   2020-01-15-11-17-33
+INFO   Server Started !   2020-01-15-11-18-42
+INFO   New Client Connection !   2020-01-15-11-18-54
+NO_USER   rabsil@he2b.be does not exist !   2020-01-15-11-18-56
+INFO   Server Started !   2020-01-15-11-19-09
+INFO   Server Started !   2020-01-15-11-19-36
+INFO   New Client Connection !   2020-01-15-11-19-40
+NO_USER   rabsil@he2b.be does not exist !   2020-01-15-11-19-42
+INFO   Server Started !   2020-01-15-11-22-20
+INFO   New Client Connection !   2020-01-15-11-22-28
+BROKEN_FILE    FILE INTEGRITY BROKEN ! : AdminLogins   2020-01-15-11-22-30
+NO_USER   rabsil@he2b.be does not exist !   2020-01-15-11-22-30
+INFO   Server Started !   2020-01-15-11-26-18
+INFO   New Client Connection !   2020-01-15-11-26-24
+SUCCESS_LOGIN   rabsil@he2b.be entered good credentials !   2020-01-15-11-26-26
+INFO   Code sent to rabsil@he2b.be   2020-01-15-11-26-32
+SERVER_ERROR   Error is : java.net.SocketException: Connection reset   2020-01-15-11-26-52

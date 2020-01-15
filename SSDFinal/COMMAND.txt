@@ -1,0 +1,6 @@
+When in the Executable folder of the program you want to launch use : 
+
+For the server :
+java -cp .;;javax.mail.jar Main
+For the client :
+java -cp . Main
